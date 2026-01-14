@@ -2,8 +2,6 @@
 //  finAppTests.swift
 //  finAppTests
 //
-//  Created by Moise on 13/12/2025.
-//
 
 import Testing
 @testable import finApp
