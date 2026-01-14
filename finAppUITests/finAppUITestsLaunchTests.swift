@@ -1,9 +1,7 @@
-//
 //  finAppUITestsLaunchTests.swift
 //  finAppUITests
 //
-//  Created by Moise on 13/12/2025.
-//
+
 
 import XCTest
 
