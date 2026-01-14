@@ -1,0 +1,11 @@
+/finApp.xcodeproj/
+.DS_Store
+/build/
+/DerivedData/
+/backend/.env
+/backend/.env.local
+/backend/.env.example
+/backend/NEON_SETUP.md
+/backend/INTEGRATION_GUIDE.md
+/backend/Package.resolved
+/backend/QUICK_START_NEON.MD
