@@ -1,10 +1,4 @@
-//
-//  finAppApp.swift
-//  finApp
-//
-//  Created by Moise on 13/12/2025.
-//
-
+//main
 import SwiftUI
 
 @main
